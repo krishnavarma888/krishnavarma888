@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krishnavarma888
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning Devops and AWS
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
